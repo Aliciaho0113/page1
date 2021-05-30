@@ -1,0 +1,76 @@
+
+html {
+    background-color: #E8FFF6;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+*,*:before,*:after {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 0;
+    margin: 5px 15px 60px 15px;
+    width: 1248px;
+    height: auto;
+}
+
+.container {
+    width: 1248px;
+    height: 1080px;
+}
+
+.fourbanner {
+	margin-top: -200px;
+	margin-left: 10px;
+	display: inline-block;
+	max-width: 1248px;
+	max-height: 200px;
+}
+
+.banner1 {
+	max-width: 70px;
+	max-height: 30px;
+	position: absolute;
+	top: 480px;
+	left: 100px;
+}
+
+.banner4 {
+	max-width: 70px;
+	max-height: 30px;
+	position: absolute;
+	top: 480px;
+	right: 450px;
+
+}
+
+.banner2 {
+	max-width: 70px;
+	max-height: 30px;
+	position: absolute;
+	top: 480px;
+	left: 375px;
+}
+
+.banner3 {
+	max-width: 70px;
+	max-height: 30px;
+	position: absolute;
+	top: 480px;
+	right: 725px;
+}
+
+
+
+.page1 {
+	width: 1248px;
+	height: auto;
+	border-top: solid black 1px;
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+    border-bottom: solid black 1px;
+    margin-top: 0px;
+}
+
